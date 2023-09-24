@@ -15,8 +15,8 @@ This is a classic Snake game implemented in Java using the Swing library.
 
     ```bash
     cd snake-game
-    javac Main.java
-    java Main
+    javac SnakeGame.java
+    java SnakeGame
 
     ```
 
